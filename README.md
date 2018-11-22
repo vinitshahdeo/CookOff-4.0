@@ -4,7 +4,7 @@
 
 ## A Competitive Coding Event Hosted By [CodeChef VIT Chapter]() During graVITas'18
 
-This repository contains the `C++ Solutions` of challenges of **Cook Off 4.0**.
+This repository contains the `C++ Solutions` of challenges of **Cook Off 4.0**. Click [here](https://github.com/vinitshahdeo/Cook-Off-3.0/tree/master/Solutions) for [Cook Off 3.0](https://www.hackerrank.com/cook-off-3-0) solutions.
 
 | ROUNDS | LINK TO THE CONTEST |
 | ------- | -------------- |
@@ -22,7 +22,7 @@ This repository contains the `C++ Solutions` of challenges of **Cook Off 4.0**.
 ### Related Repositories
 
 - [Cook Off 2.0](https://github.com/vinitshahdeo/CookOff)
-- [Cook Off 4.0](https://github.com/vinitshahdeo/CookOff-4.0)
+- [Cook Off 3.0](https://github.com/vinitshahdeo/Cook-Off-3.0)
 
 
 ### Useful Links
