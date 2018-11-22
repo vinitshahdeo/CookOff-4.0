@@ -4,6 +4,7 @@
 
 ## A Competitive Coding Event Hosted By [CodeChef VIT Chapter]() During graVITas'18
 
+This repository contains the `C++ Solutions` of challenges of **Cook Off 4.0**.
 
 | ROUNDS | LINK TO THE CONTEST |
 | ------- | -------------- |
