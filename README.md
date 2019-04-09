@@ -42,7 +42,7 @@ This repository contains the `C++ Solutions` of challenges of **Cook Off 4.0**. 
 
 ### Problem Setter - [Vinit Shahdeo](https://www.hackerrank.com/vinitshahdeo)
 
-[![HackerRank](https://img.shields.io/badge/Hacker-Rank-green.svg?style=for-the-badge)](https://www.hackerrank.com/vinitshahdeo)
+[![HackerRank](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=green&logo=hackerrank&style=for-the-badge&logoColor=white)](https://www.hackerrank.com/vinitshahdeo)
 
 #### Follow me on **[Hackerrank](https://www.hackerrank.com/vinitshahdeo)** for more updates.
 
