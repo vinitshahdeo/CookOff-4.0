@@ -6,6 +6,9 @@
 
 This repository contains the `C++ Solutions` of challenges of **Cook Off 4.0**. Click [here](https://github.com/vinitshahdeo/Cook-Off-3.0/tree/master/Solutions) for [Cook Off 3.0](https://www.hackerrank.com/cook-off-3-0) solutions.
 
+[![Cook Off](https://img.shields.io/badge/HackerRank-Contest-green.svg?style=flat&logo=hackerrank)](https://www.hackerrank.com/contests/cook-off-4-0-round-1-1) [![Cook Off](https://img.shields.io/badge/C++-Solutions-critical.svg?style=flat)](https://www.hackerrank.com/contests/cook-off-4-0-round-1-1)
+
+
 | ROUNDS | LINK TO THE CONTEST |
 | ------- | -------------- |
 | Round 1 | [View Contest](https://www.hackerrank.com/contests/cook-off-4-0-round-1-1) |
