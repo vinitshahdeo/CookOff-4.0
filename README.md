@@ -2,7 +2,7 @@
 
 [![Cook Off](https://img.shields.io/badge/Cook-Off-dodgerblue.svg?style=for-the-badge)](https://www.hackerrank.com/contests/cook-off-4-0-round-1-1) [![CodeChef VIT](https://img.shields.io/badge/CODECHEF-VITVELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/) [![GRAVITAS](https://img.shields.io/badge/graVITas-2016-crimson.svg?style=for-the-badge)](http://www.vit.ac.in/files/gravitas18/home.html) [![CONTEST](https://img.shields.io/badge/CODING-CHALLENGES-orange.svg?style=for-the-badge)](https://www.hackerrank.com/cook-off-3-0)
 
-## A Competitive Coding Event Hosted By [CodeChef VIT Chapter]() During graVITas'18
+## A Competitive Coding Event Hosted By [CodeChef VIT Chapter](https://github.com/CodeChefVIT) During graVITas'18
 
 This repository contains the `C++ Solutions` of challenges of **Cook Off 4.0**. Click [here](https://github.com/vinitshahdeo/Cook-Off-3.0/tree/master/Solutions) for [Cook Off 3.0](https://www.hackerrank.com/cook-off-3-0) solutions.
 
